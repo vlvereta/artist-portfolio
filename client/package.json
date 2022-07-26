@@ -1,7 +1,10 @@
 {
-  "name": "artist-portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Client for the artist-portfolio project.",
+  "repository": "https://github.com/vlvereta/artist-portfolio",
+  "author": "Vladyslav Vereta <vlvereta.92@gmail.com>",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
